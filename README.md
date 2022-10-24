@@ -13,3 +13,10 @@ Machine Learning (ML) has the ability to explore the algorithms that can learn f
 * The Random Forest similar to Decision Trees. It generates a forest of trees, with each tree being made up of a random collection of features from the total set. A decrease of variation can be achieved by averaging these uncorrelated trees, making the final result less complex and more stable. 
 * The Neural Network (NN) is a basic form of Artificial Neural Network (ANN) that is inspired by the human brain and consists of signal processing nodes, where these nodes are connected to one another. One of the most basic NN topology is Multi-Layer Perceptron (MLP). Each artificial neuron could have a range of inputs as well as a single output.
  
+### Dataset
+The dataset provided by Kaggle’s website can be founded on the following link:  kaggle.com/colara/human-resource.
+There are 14,999 samples in this dataset, with ten features (6 integer, 2 floats, and 2 objects). There are no null/missing values in any variable column.
+
+The dataset was tested on random examples for unknown cases. Then, increasing the size of the minority class while decreasing the size of the majority class. 
+
+
