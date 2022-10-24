@@ -29,6 +29,7 @@ False Negatives (Type II Error): You predict that the employee will not leave, b
 Finally, we interpret our data, and compare the algorithms using ROC graph. with overall conclusion and suggested solutions.
 
 ### The file with named "Employee  SVM KNN DT RF (1)":
+In this file, I used the up-sampling technique rather than feature importance, by using the same Machine Learning algorithms in the previous file. The up-sampling technique used is  increase the size of the minority class while decreasing the size of the majority class. Positive class is the minority class in this data collection, whereas negative class is the majority class. Also, a Cross Validation CV F1-score used to evaluate each method. 
 
 
 
