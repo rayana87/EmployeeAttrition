@@ -26,5 +26,10 @@ Then, evaluating the models, not only based on accuracy have to know the differe
 False Positives (Type I Error): You predict that the employee will leave, but do not.
 False Negatives (Type II Error): You predict that the employee will not leave, but does leave.
 
+Finally, we interpret our data, and compare the algorithms using ROC graph. with overall conclusion and suggested solutions.
+
+### The file with named "Employee  SVM KNN DT RF (1)":
+
+
 
 
