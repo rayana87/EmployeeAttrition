@@ -19,8 +19,8 @@ There are 14,999 samples in this dataset, with ten features (6 integer, 2 floats
 
 The dataset was tested on random examples for unknown cases. Then, increasing the size of the minority class while decreasing the size of the majority class. 
 
-##### The file with named "Employees behaviour analysis based on Random forest and Decision Tree", contain data visualization and analysis to enable further analysis, we have to determine what factors/features have the greatest impact on our target (Attrition), what features have deep correlations to one another, as well as a deep examination of these features.
-##### By using a decision tree classifier, it could rank the features used for the prediction and choose the top three features. This is helpful in creating our model for logistic regression because it’ll be more interpretable to understand what goes into our model when we utilize less features.
+### The file with named "Employees behaviour analysis based on Random forest and Decision Tree":
+Contain data visualization and analysis to enable further analysis, we have to determine what factors/features have the greatest impact on our target (Attrition), what features have deep correlations to one another, as well as a deep examination of these features. By using a decision tree classifier, it could rank the features used for the prediction and choose the top three features. This is helpful in creating our model for logistic regression because it’ll be more interpretable to understand what goes into our model when we utilize less features.
 
 
 
