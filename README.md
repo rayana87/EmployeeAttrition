@@ -7,3 +7,5 @@ Machine Learning (ML) has the ability to explore the algorithms that can learn f
 
 ### Algorithms
 * The KNN algorithm scans the TR set for the K nearest samples for each sample X_test in the TS set. As a result, the KNN computes the distances between X_test and all of TR's samples using Euclidean distance which is the most common measure for this purpose or Manhattan distance. The k value chosen can have an effect on the technique's efficiency and noise tolerance.
+
+* SVM: by changing the distance between the data points, creating a hyper-plane that will isolate the classes as far as possible. Suppose N is the total number of vectors given separable sample sets (x_i,y_i),1≤i≤N as training samples. The input vectors x_i are the training vectors, and D is the input space dimension where x_i∈R D. The hyperplane separation using the equation w. x + b = 0, where w represents the weight in the vector, the dot (.) represent the inner product in the vector, and the bias expression is denoted by the letter b 
