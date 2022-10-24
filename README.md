@@ -32,5 +32,6 @@ Finally, we interpret our data, and compare the algorithms using ROC graph. with
 In this file, I used the up-sampling technique rather than feature importance, by using the same Machine Learning algorithms in the previous file. The up-sampling technique used is  increase the size of the minority class while decreasing the size of the majority class. Positive class is the minority class in this data collection, whereas negative class is the majority class. Also, a Cross Validation CV F1-score used to evaluate each method. 
 
 
-
+### The codes in repository "Employee  SVM KNN DT RF " 
+For the MLP model, providing the details of the Neural Network (NN) model, mentioning the number of inputs, hidden, output layers, types of activation function and the optimizer technique. In terms of performance evaluation metrics, the proposed approach outperforms the aforementioned classifiers, according to the results of the experiment.
 
